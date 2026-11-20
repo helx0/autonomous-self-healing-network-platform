@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102a4c"/><stop offset="1" stop-color="#020617"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#818cf8"/><stop offset="1" stop-color="#312e81"/></linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <rect x="20" y="20" width="560" height="760" rx="24" fill="none" stroke="#818cf8" stroke-opacity=".5" stroke-width="3"/>
+  <circle cx="300" cy="300" r="175" fill="#111827" stroke="#818cf8" stroke-width="4"/>
+  <path d="M135 800c10-155 72-230 165-230s155 75 165 230" fill="url(#shirt)"/>
+  <path d="M245 565h110v88c-14 31-96 31-110 0z" fill="#bb8060"/>
+  <ellipse cx="300" cy="340" rx="125" ry="150" fill="#c9916d"/>
+  <path d="M178 330c-5-106 36-171 122-171 94 0 132 72 122 171-16-30-32-65-34-108-55 45-132 58-208 35-1 26-1 48-2 73z" fill="#20252f"/>
+  <path d="M181 278c25-120 209-148 239-10-43-20-78-44-105-82-24 48-67 78-134 92z" fill="#0f172a"/>
+  <ellipse cx="250" cy="344" rx="10" ry="7" fill="#1e293b"/><ellipse cx="350" cy="344" rx="10" ry="7" fill="#1e293b"/>
+  <path d="M300 358l-12 72h28" fill="none" stroke="#aa7155" stroke-width="5" stroke-linecap="round"/>
+  <path d="M254 454c27 22 65 22 92 0" fill="none" stroke="#f2bda1" stroke-width="8" stroke-linecap="round"/>
+  <path d="M234 271c21-11 44-10 64-2M302 269c21-9 43-7 61 5" fill="none" stroke="#111827" stroke-width="9" stroke-linecap="round"/>
+  <path d="M198 800l102-148 102 148" fill="#3730a3" opacity=".75"/>
+  <text x="300" y="735" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#e0e7ff">Osama Ahmed</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1a2f50"/><stop offset="1" stop-color="#020617"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <rect x="20" y="20" width="560" height="760" rx="24" fill="none" stroke="#60a5fa" stroke-opacity=".5" stroke-width="3"/>
+  <circle cx="300" cy="300" r="175" fill="#111827" stroke="#60a5fa" stroke-width="4"/>
+  <path d="M135 800c10-155 72-230 165-230s155 75 165 230" fill="url(#shirt)"/>
+  <path d="M245 565h110v88c-14 31-96 31-110 0z" fill="#d09a70"/>
+  <ellipse cx="300" cy="340" rx="125" ry="150" fill="#daa779"/>
+  <path d="M176 327c-6-102 37-168 124-168 92 0 133 65 124 168-18-27-32-61-36-102-50 42-126 57-204 37-1 25-4 45-8 65z" fill="#1d2433"/>
+  <path d="M181 278c24-122 205-148 239-18-42-21-77-45-104-82-24 47-68 78-135 100z" fill="#111827"/>
+  <ellipse cx="250" cy="344" rx="10" ry="7" fill="#172033"/><ellipse cx="350" cy="344" rx="10" ry="7" fill="#172033"/>
+  <path d="M300 358l-12 72h28" fill="none" stroke="#b97a57" stroke-width="5" stroke-linecap="round"/>
+  <path d="M254 454c27 22 65 22 92 0" fill="none" stroke="#f5d0b9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M234 271c21-11 44-10 64-2M302 269c21-9 43-7 61 5" fill="none" stroke="#111827" stroke-width="9" stroke-linecap="round"/>
+  <path d="M198 800l102-148 102 148" fill="#1e40af" opacity=".75"/>
+  <text x="300" y="735" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#dbeafe">Ahmed Saleh</text>
+</svg>
